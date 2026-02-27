@@ -1,3 +1,13 @@
+# Juan Cañas Jiménez
+
+## Hi everyone!
+
+Hi everyone! I'm **Juan Cañas**. I'm a software developer in training at **RIWI** located in Barranquilla, Colombia.
+
+I'm currently working on a project using **Python, Visual Studio Code, Git and GitHub**. I'm learning how to use them together.
+
+I'm passionate about playing and watching football. My favorite teams are Junior de Barranquilla and Bayern Munchen.
+
 ## Hi there 👋
 
 <!--
