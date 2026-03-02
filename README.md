@@ -2,9 +2,9 @@
 
 ## Hi everyone!
 
-Hi everyone! I'm **Juan Cañas**. I'm a software developer in training at **RIWI** located in Barranquilla, Colombia. I also have a degree in Mechanical Engineering.
+Hi everyone! I'm **Juan Cañas**. I'm a software developer in training at **RIWI** located in Barranquilla, Colombia. Also, I have a degree in Mechanical Engineering.
 
-I'm currently working on a project using **Python, Visual Studio Code, Git and GitHub**. I'm learning how to use them together.
+I'm currently working on a project using **Python, Visual Studio Code, Git and GitHub**. I'm learning how to use them together. Also, I'm currently studying a virtual technology program in software analysis and development at SENA.
 
 I'm passionate about playing and watching football. My favorite teams are Junior de Barranquilla and Bayern Munchen.
 
