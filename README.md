@@ -2,7 +2,7 @@
 
 ## Hi everyone!
 
-Hi everyone! I'm **Juan Cañas**. I'm a software developer in training at **RIWI** located in Barranquilla, Colombia.
+Hi everyone! I'm **Juan Cañas**. I'm a software developer in training at **RIWI** located in Barranquilla, Colombia. I also have a degree in Mechanical Engineering.
 
 I'm currently working on a project using **Python, Visual Studio Code, Git and GitHub**. I'm learning how to use them together.
 
