@@ -21,12 +21,14 @@
   I am a <b>Mechanical Engineer</b> with experience as a Production Maintenance Operator at Triple A, where I supported preventive and corrective maintenance of equipment used in water treatment operations, hydraulic system installation, and material management.
 </p>
 <p>
-  During my training at <b>RIWI</b>, I developed practical skills in HTML, CSS, JavaScript, and <b>Angular</b>. I am currently specializing in <b>Java and Spring Boot</b>, with a strong focus on backend development. I have applied these technologies, along with PostgreSQL, REST APIs, GitHub, and Docker, in software development projects, collaborating with teams and strictly following <b>Agile methodologies (Scrum)</b>.
+  During my training at <b>RIWI</b>, I have developed practical skills in HTML, CSS, and JavaScript. I am currently specializing in <b>Java and Spring Boot</b>, with a focus on backend development.
 </p>
 <p>
-  🎯 <b>My Goal:</b> To combine my engineering background, analytical thinking, and software development skills to contribute to real-world projects, successfully applying the technologies and tools required by the organization.
+  I have used these technologies, along with PostgreSQL, REST APIs, GitHub, Angular, and Docker, in software development projects, collaborating with teams and following agile methodologies such as <b>Scrum</b>.
 </p>
-
+<p>
+  🎯 My goal is to combine my engineering background, analytical thinking, and software development skills to contribute to real-world projects, applying the technologies and tools required by the organization.
+</p>
 
 <h2>⚙️ Tech Stack & Tools</h2>
 <div align="center">
@@ -46,10 +48,4 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Agile_Methodologies-20232A?style=for-the-badge&logo=jira&logoColor=6DB33F" alt="Agile" />
-</div>
-
-<br />
-
-<div align="center">
-  <p><i>Building robust solutions by combining engineering precision with software innovation.</i></p>
 </div>
