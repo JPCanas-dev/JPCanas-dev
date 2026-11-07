@@ -14,9 +14,14 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
+  <p>
+    <a href="#about-me"><b>About Me</b></a> • 
+    <a href="#tech-stack"><b>Tech Stack & Tools</b></a> • 
+    <a href="#featured-projects"><b>Featured Projects</b></a>
+  </p>
 </div>
 
-<h2>👨‍💻 About Me</h2>
+<h2 id="about-me">👨‍💻 About Me</h2>
 <p>
   I am a <b>Mechanical Engineer</b> with experience in industrial maintenance at Triple A, now specializing in <b>backend development with Java and Spring Boot</b> through my training at <b>RIWI</b>.
 </p>
@@ -24,7 +29,7 @@
   I have built practical software projects using <b>PostgreSQL, REST APIs, Docker, GitHub, Angular, HTML, CSS, and JavaScript</b>, working in teams under <b>Agile (Scrum)</b> methodologies. My goal is to apply my analytical engineering mindset and software skills to deliver scalable, real-world solutions.
 </p>
 
-<h2>⚙️ Tech Stack & Tools</h2>
+<h2 id="tech-stack">⚙️ Tech Stack & Tools</h2>
 <div align="center">
   <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -44,7 +49,7 @@
   <img src="https://img.shields.io/badge/Agile_Methodologies-20232A?style=for-the-badge&logo=jira&logoColor=6DB33F" alt="Agile" />
 </div>
 
-<h2>🚀 Featured Projects</h2>
+<h2 id="featured-projects">🚀 Featured Projects</h2>
 
 <h3>🛠️ <a href="https://github.com/JPCanas-dev/finalSpringBoot-HelpFlow" target="_blank">HelpFlow – Automated Support Ticketing System</a></h3>
 <p>
