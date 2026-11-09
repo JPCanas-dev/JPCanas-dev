@@ -1,6 +1,6 @@
-<div align="right">
-  <a href="https://github.com/JPCanas-dev"><b>🇬🇧 Switch to English Profile</b></a>
-</div>
+<h3 align="right">
+  <a href="https://github.com/JPCanas-dev"><b>Switch to English Profile →</b></a>
+</h3>
 
 <h1 align="center"> 👋😀 ¡Hola a todos! Soy Juan Pablo Cañas </h1>
 
