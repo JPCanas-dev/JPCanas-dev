@@ -1,7 +1,10 @@
+<div align="right">
+  <a href="./README.es.md"><b>🇪🇸 Versión en Español</b></a>
+</div>
+
 <h1 align="center"> 👋😀 Hi everyone! I'm Juan Pablo Cañas </h1>
 
 <div align="center">
-  <!-- Engranajes centrados verticalmente y pegados a los extremos del texto -->
   <img align="middle" src="./gear.svg" width="32" height="32" alt="Gear" />
   <img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&color=6DB33F&center=true&vCenter=true&width=430&height=45&lines=Every+line+of+code;has+its+own+story." alt="Typing Animation" />
   <img align="middle" src="./gear.svg" width="32" height="32" alt="Gear" />
@@ -14,6 +17,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
+  <h4>
+    <a href="mailto:juanjimenez025@gmail.com"><img align="top" src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" /></a>&nbsp;
+    <a href="mailto:juanjimenez025@gmail.com"><code>juanjimenez025@gmail.com</code></a>
+  </h4>
   <p>
     <a href="#about-me"><b>About Me</b></a> • 
     <a href="#tech-stack"><b>Tech Stack & Tools</b></a> • 
@@ -23,10 +30,12 @@
 
 <h2 id="about-me">👨‍💻 About Me</h2>
 <p>
-  I am a <b>Mechanical Engineer</b> with experience in industrial maintenance at Triple A, now specializing in <b>backend development with Java and Spring Boot</b> through my training at <b>RIWI</b>.
+  I am a <b>Mechanical Engineer</b> currently specializing in <b>backend development with Java and Spring Boot</b> through my training at <b>RIWI</b>, based in Barranquilla, Colombia.
 </p>
 <p>
-  I have built practical software projects using <b>PostgreSQL, REST APIs, Docker, GitHub, Angular, HTML, CSS, and JavaScript</b>, working in teams under <b>Agile (Scrum)</b> methodologies. My goal is to apply my analytical engineering mindset and software skills to deliver scalable, real-world solutions.
+  I have built practical software projects using <b>PostgreSQL, REST APIs, Docker, GitHub, Angular, HTML, CSS, and JavaScript</b>, working in teams under <b>Agile (Scrum)</b> methodologies. 
+  <br /><br />
+  My goal is to combine an analytical engineering mindset with software development to deliver scalable, real-world solutions.
 </p>
 
 <h2 id="tech-stack">⚙️ Tech Stack & Tools</h2>
@@ -54,16 +63,19 @@
 <h3>🛠️ <a href="https://github.com/JPCanas-dev/finalSpringBoot-HelpFlow" target="_blank">HelpFlow – Automated Support Ticketing System</a></h3>
 <p>
   <i>Backend Developer • Individual Project</i><br /><br />
-  A support ticketing platform designed to automatically assign requests to available technicians and track resolution times. Built with a clean Hexagonal Architecture in Java and Spring Boot, it features role-based access control with JWT, database migrations via Flyway in PostgreSQL, and full containerization with Docker for one-click setup.
+  A support ticketing platform designed to automatically assign requests to available technicians and track resolution times. 
+  Built with a clean Hexagonal Architecture in Java and Spring Boot, it features role-based access control with JWT, 
+  database migrations via Flyway in PostgreSQL, and full containerization with Docker for agile deployment.
 </p>
 <p>
   <b>Technologies:</b> Java, Spring Boot, Spring Security (JWT), REST APIs, PostgreSQL, Flyway, Docker, Postman, Swagger UI, GitHub.
 </p>
 
-<h3>💳 <a href="https://github.com/Danilo-Doria/SkillBridge-AI-JAVA-Angular" target="_blank">SkillBridge AI – Secure Payment Integration</a></h3>
+<h3>💳 <a href="https://github.com/Danilo-Doria/SkillBridge-AI-JAVA-Angular" target="_blank">SkillBridge AI – Mentorship & Professional Services Platform</a></h3>
 <p>
   <i>Full Stack Developer • Team Project</i><br /><br />
-  A web application featuring end-to-end payment processing powered by Stripe. Developed a secure card checkout using Angular and Stripe Elements on the client side, while managing payment intents and automated webhook listeners in Spring Boot to update transaction records reliably.
+  A web application featuring an end-to-end payment simulation powered by Stripe. Developed a secure checkout on the frontend using Angular and Stripe components, 
+  while implementing backend logic in Spring Boot with automated webhooks to record and update each transaction's status in real time.
 </p>
 <p>
   <b>Technologies:</b> Java, Spring Boot, Angular, Stripe API, Stripe Elements, Stripe CLI, REST APIs, JUnit, Mockito, GitHub.
@@ -72,7 +84,8 @@
 <h3>👥 <a href="https://github.com/Zolagos/PROYECTO-MENTORIA-Y-RETROALIMENTACION" target="_blank">TutorCode – Mentorship & Feedback Platform</a></h3>
 <p>
   <i>Frontend Developer • Team Project</i><br /><br />
-  A web tool facilitating mentorship booking and session tracking. Developed the interface and core logic for session management using Vanilla JavaScript and Vite, implementing mock data endpoints to maintain fast frontend delivery while coordinating with the backend team under Scrum.
+  A web tool facilitating mentorship booking and session tracking. Developed the interface and core logic for session management using Vanilla JavaScript and Vite, 
+  implementando mock data endpoints to maintain fast frontend delivery while coordinating with the backend team under the Scrum methodology.
 </p>
 <p>
   <b>Technologies:</b> JavaScript, HTML, CSS, Vite, LocalStorage, Node.js & Express (team context), Scrum, Microsoft Office.
@@ -81,5 +94,7 @@
 <br />
 
 <div align="center">
-  <p><i>Building robust solutions by combining engineering precision with software innovation.</i></p>
+  <p>
+    <i>"Looking to join a development team to keep growing, receive feedback, and contribute daily by building reliable services."</i>
+  </p>
 </div>
