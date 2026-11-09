@@ -16,10 +16,11 @@
     <a href="https://www.linkedin.com/in/ingjuancanas/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:juanjimenez025@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
   </p>
+  <h4>
+    <a href="mailto:juanjimenez025@gmail.com"><img align="top" src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" /></a>&nbsp;
+    <a href="mailto:juanjimenez025@gmail.com"><code>juanjimenez025@gmail.com</code></a>
+  </h4>
   <p>
     <a href="#sobre-mi"><b>Sobre mí</b></a> • 
     <a href="#tecnologias"><b>Tecnologías y herramientas</b></a> • 
