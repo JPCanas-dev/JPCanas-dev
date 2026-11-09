@@ -1,6 +1,6 @@
-<div align="right">
+<h3 align="right">
   <a href="./README.es.md"><b>🇪🇸 Versión en Español</b></a>
-</div>
+</h3>
 
 <h1 align="center"> 👋😀 Hi everyone! I'm Juan Pablo Cañas </h1>
 
